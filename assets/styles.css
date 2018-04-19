@@ -76,7 +76,7 @@ div.sub-container p {
     margin: 25px;
 }
 
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 600px) {
     div.header-container {
         width: 90%;
         padding: 10px;
@@ -89,7 +89,7 @@ div.sub-container p {
     }
 
     div.sub-container iframe.map-location {
-        width: 70%;
-        height: 400px
+        width: 95%;
+        height: 300px
     }
 }
