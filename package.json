@@ -1,0 +1,19 @@
+{
+  "name": "sweety-pies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IronCoderXYZ/Sweety-Pies.git"
+  },
+  "author": "Mitch Hankins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IronCoderXYZ/Sweety-Pies/issues"
+  },
+  "homepage": "https://github.com/IronCoderXYZ/Sweety-Pies#readme"
+}
