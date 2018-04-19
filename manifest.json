@@ -1,0 +1,9 @@
+{
+    "name": "Sweety Pie's",
+    "short_name": "Sweety Pie's",
+    "start_url": "index.html",
+    "theme_color": "#CC33FF",
+    "background_color": "#CC33FF",
+    "display": "fullscreen",
+    "orientation": "portrait"
+}
