@@ -7,6 +7,10 @@ body {
     font-family: 'Lobster', cursive;
 }
 
+.row {
+    margin: 20px;
+}
+
 .neon-container {
     border-width: 5px;
     border-color: #CC33FF;
@@ -31,6 +35,7 @@ div.header-container h1 {
 
 div.sub-container {
     margin: 10px 20px;
+    text-align: center;
 }
 
 div.sub-container h2 {
@@ -41,7 +46,7 @@ div.sub-container h2 {
 
 div.menu ul {
     list-style: none;
-    text-align: left;
+    text-align: center;
     padding: 0;
 }
 
@@ -56,6 +61,8 @@ div.menu ul li {
 div.sub-container iframe.map-location {
     display: block;
     margin: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
     border-width: 5px;
     border-color: #CC33FF;
     border-style: solid;
@@ -67,6 +74,11 @@ div.sub-container p {
     margin: 25px;
 }
 
-.row {
-    margin: 20px;
+@media screen and (max-width: 680px) {
+    div.header-container {
+        width: 90%;
+        padding: 10px;
+        margin: 25px auto;
+        text-align: center;
+    }
 }
