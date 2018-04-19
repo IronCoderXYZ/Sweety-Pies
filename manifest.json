@@ -7,7 +7,6 @@
     // Recommended
     "default_locale": "en",
     "description": "A plain text description",
-    "icons": {},
     "short_name": "Sweety Pies",
     "start_url": "index.html",
     "theme_color": "#CC33FF",
