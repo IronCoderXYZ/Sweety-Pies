@@ -67,6 +67,8 @@ div.sub-container iframe.map-location {
     border-color: #CC33FF;
     border-style: solid;
     border-radius: 10px;
+    width: 70%;
+    height: 400px
 }
 
 div.sub-container p {
@@ -80,5 +82,14 @@ div.sub-container p {
         padding: 10px;
         margin: 25px auto;
         text-align: center;
+    }
+
+    div.sub-container {
+        margin-top: 25px;
+    }
+
+    div.sub-container iframe.map-location {
+        width: 70%;
+        height: 400px
     }
 }
